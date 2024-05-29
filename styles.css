@@ -1,0 +1,92 @@
+/* General styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Cover page styles */
+.cover {
+  background-color: red;
+  color: yellow;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.cover h1 {
+  font-size: 36px;
+}
+
+.cover p {
+  font-size: 18px;
+}
+
+/* Information section styles */
+.information-section {
+  background-color: #f2f2f2;
+  padding: 50px 0;
+}
+
+.information-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Contact section styles */
+.contact-section {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.contact-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Motion graphics section styles */
+.motion-graphics-section {
+  background-color: #e6e6e6;
+  padding: 50px 0;
+}
+
+.motion-graphics-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Motion graphics styles */
+.motion-graphics-info {
+  text-align: center;
+}
+
+.motion-graphics-info p {
+  font-size: 16px;
+}
+
+/* Animation and video section styles */
+.animation-video-section {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.animation-video-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Add additional styles for motion graphics, animations, and video */
